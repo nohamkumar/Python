@@ -1,0 +1,8 @@
+Convert given days to Week & day, and print it formated like the sample below.
+
+Input days.     Output
+  16            2 weeks + 2 days
+  9             1 week + 2 days
+  15            2 weeks + 1 day
+  7             1 week
+  2             2 days
